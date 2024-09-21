@@ -65,6 +65,7 @@ main()
 		printf("\nCertainly,let's explore");
 		amt=0;
 		tqty=0;
+		qty1=qty2=qty3=0;
 		goto start;
 		
 		
